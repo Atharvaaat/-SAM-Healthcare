@@ -1,1 +1,1 @@
-# -SAM-Healthcare
+# SAM-Healthcare
